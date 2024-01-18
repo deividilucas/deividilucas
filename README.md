@@ -1,4 +1,4 @@
-
+file:///C:/Users/ryzen/OneDrive/%C3%81rea%20de%20Trabalho/github.png
 <img align="center" style="margin-bottom:100px" width=100%>
 
 <p align="center"> 👋 Hi there! 
