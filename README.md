@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/deividilucas/deividilucas/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<img align="center" style="margin-bottom:100px" width=100%>
 
 <p align="center"> 👋 Hi there! 
    I'm Deividi Lucas, a super excited Computer Science student in the final year of college. 🎓 Throughout my academic journey, I've immersed myself in challenging programming tasks, intriguing algorithms, and innovative projects.
