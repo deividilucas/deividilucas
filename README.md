@@ -2,8 +2,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/deividilucas/deividilucas/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ Hi there! 
-  👋 I'm Deividi Lucas, a super excited Computer Science student in the final year of college. 🎓 Throughout my academic journey, I've immersed myself in challenging programming tasks, intriguing algorithms, and innovative projects.
+<p align="center"> 👋 Hi there! 
+   I'm Deividi Lucas, a super excited Computer Science student in the final year of college. 🎓 Throughout my academic journey, I've immersed myself in challenging programming tasks, intriguing algorithms, and innovative projects.
 
 🚀 Always in pursuit of growth, I'm constantly refining my skills in software development. I believe that the combination of a solid academic background, practical experience, and a touch of maturity puts me at an exciting point in my journey..</p>&nbsp;
 
