@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100%> <img src=![github](https://github.com/deividilucas/deividilucas/assets/89051028/66bccf2e-184d-46ee-9b30-911984308152)
+<img align="center" style="margin-bottom:100px" width=100%> <=![github](https://github.com/deividilucas/deividilucas/assets/89051028/66bccf2e-184d-46ee-9b30-911984308152)
 ""
 
 
