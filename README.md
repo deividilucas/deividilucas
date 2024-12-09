@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> 🎓 Computer Science student 
+
     
 
 🚀 Always in pursuit of growth, I'm constantly refining my skills in software development. I believe that the combination of a solid academic background, practical experience, and a touch of maturity puts me at an exciting point in my journey..</p>&nbsp;
