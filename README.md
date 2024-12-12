@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100%> ![Screenshot_2](https://github.com/deividilucas/deividilucas/assets/89051028/bbe121bc-cf5b-487b-a584-e17fb678b3ed)
+<img width =100% bottom=50px src="https://github.com/user-attachments/assets/f464ad49-3904-426e-a904-54b1531a8b61"/>
 
 
 
