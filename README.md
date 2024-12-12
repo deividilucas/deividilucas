@@ -1,6 +1,9 @@
 
-<img width =100% bottom=50px src="https://github.com/user-attachments/assets/f464ad49-3904-426e-a904-54b1531a8b61"/>
+<img width =100% bottom=50px src="https://github.com/user-attachments/assets/8c0d03e0-c4bd-4416-b37d-2d4184a39f69"/>
+<br>
+<br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=086BD7C0&background=FFC01B00&width=435&lines=Hi%2C+I'm+Deividi+Lucas!)](https://git.io/typing-svg)
 
 
 
