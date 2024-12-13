@@ -12,7 +12,7 @@
 
     
 
-🚀 Always in pursuit of growth, I'm constantly refining my skills in software development. I believe that the combination of a solid academic background, practical experience, and a touch of maturity puts me at an exciting point in my journey..</p>&nbsp;
+🚀 Always in pursuit of growth, I'm constantly refining my skills in software development. I believe that the combination of a solid academic background, practical experience, and a touch of maturity puts me at an exciting point in my journey.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=deividilucas&theme=radical&mode=weekly" />
