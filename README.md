@@ -1,6 +1,3 @@
-
-<img width =100% bottom=50px src="https://github.com/user-attachments/assets/8c0d03e0-c4bd-4416-b37d-2d4184a39f69"/>
-
 ![image](https://github.com/user-attachments/assets/ac8a49be-f168-4cfb-a27c-283c3b521b27)
 
 
